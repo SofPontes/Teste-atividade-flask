@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lemonchiffon;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    font-size: large;
+    color: rgb(255, 255, 255);
+}
